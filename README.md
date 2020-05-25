@@ -1,2 +1,3 @@
 # gitsclone
-Building a branch is fast & useful.
+<<<<<<< HEAD
+Building a new branch is fast and useful.
