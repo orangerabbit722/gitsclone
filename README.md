@@ -1,2 +1,2 @@
 # gitsclone
-Building a branch is fast.
+Building a branch is fast & useful.
