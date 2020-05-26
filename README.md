@@ -1,4 +1,4 @@
 # gitsclone
 <<<<<<< HEAD
 Building a new branch is fast and useful.
-This is the frist try.
+This is the frist try to learn branch.
